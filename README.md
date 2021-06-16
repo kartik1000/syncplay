@@ -1,11 +1,9 @@
 # SyncPlay
 [Access the application here!](https://syncandplay.herokuapp.com/)
 
-![SyncPlay Screenshot](https://raw.githubusercontent.com/kyle8998/SyncPlay/master/img/screenshot2.PNG)
-
 SyncPlay is a real-time online video synchronization platform. You can enjoy any video available online with friends who may not be next to you!
 
-SyncPlay currently supports YouTube, Daily Motion, Vimeo, and essentially any .mp4/.webm on the internet with the HTML5 Player!
+SyncPlay currently supports YouTube and essentially any .mp4/.webm on the internet with the HTML5 Player!
 
 [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](http://forthebadge.com)
 
