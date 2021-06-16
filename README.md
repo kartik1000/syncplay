@@ -11,9 +11,9 @@ SyncPlay currently supports YouTube and essentially any .mp4/.webm on the intern
 
 Socket.io
 
-Node.js
+Javascript
 
-Express
+HTML/CSS
 
 YouTube Data API V3
 
