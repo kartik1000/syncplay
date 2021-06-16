@@ -5,11 +5,6 @@ SyncPlay is a real-time online video synchronization platform. You can enjoy any
 
 SyncPlay currently supports YouTube and essentially any .mp4/.webm on the internet with the HTML5 Player!
 
-[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](http://forthebadge.com)
-
-[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
-
 ---
 
 ### Dependencies
