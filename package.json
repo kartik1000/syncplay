@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kyle8998/SyncPlay.git"
+    "url": "git+https://github.com/kartik1000/SyncPlay.git"
   },
-  "author": "Kyle Lim",
+  "author": "Kartik Kathuria",
   "license": "ISC",
   "dependencies": {
     "dotenv": "8.1.0",
@@ -20,9 +20,9 @@
     "ws": ">=3.3.1"
   },
   "bugs": {
-    "url": "https://github.com/kyle8998/SyncPlay/issues"
+    "url": "https://github.com/kartik1000/SyncPlay/issues"
   },
-  "homepage": "https://github.com/kyle8998/SyncPlay#readme",
+  "homepage": "https://github.com/kartik1000/SyncPlay#readme",
   "devDependencies": {
     "jshint": "^2.9.5"
   }
